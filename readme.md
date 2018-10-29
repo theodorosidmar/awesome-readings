@@ -22,5 +22,7 @@
 
 
 ## Ruby
+### Sinatra
+* [First Steps with Sinatra as a Rails Developer](https://www.netguru.co/codestories/first-steps-sinatra-1)
 ### RSpec
 * [Better Specs](http://www.betterspecs.org/) - RSpec guidelines with ruby.
