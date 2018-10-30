@@ -4,6 +4,7 @@
   * [Amazon Web Services](#amazon-web-services)
   * [Docker](#docker)
   * [Node.js](#node.js)
+  * [RPC - Remote procedure call](#rpc---remote-procedure-call)
   * [Ruby](#ruby)
 
 ## Amazon Web Services
@@ -18,8 +19,13 @@
 
 ## Node.js
 ### Security
-* [We're under attack!](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d) -  23+ Node.js security best practices
+* [We're under attack!](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d) -  23+ Node.js security best practices.
 
+## RPC - Remote procedure call
+* [Google's gRPC](https://thenewstack.io/grpc-lean-mean-communication-protocol-microservices/) - A Lean and Mean Communication Protocol for Microservices.
+* [Implementing Remote Procedure Calls With gRPC and Protocol Buffers](https://scotch.io/tutorials/implementing-remote-procedure-calls-with-grpc-and-protocol-buffers)
+* [REST vs RPC](https://www.linkedin.com/pulse/rest-vs-rpc-soa-showdown-joshua-hartman/) - The SOA showdown. By [Joshua Hartman](https://www.linkedin.com/in/joshuahartman/), Director Of Engineering at LinkedIn.
+* [Why we have decided to move our APIs to gRPC](https://grpc.io/blog/vendastagrpc) - By Dale Hopkins, CTO of [Vendasta](https://www.vendasta.com).
 
 ## Ruby
 ### Sinatra
