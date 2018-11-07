@@ -3,7 +3,8 @@
 * [List](#list)
   * [Amazon Web Services](#amazon-web-services)
   * [Docker](#docker)
-  * [Node.js](#node.js)
+  * [Medium](#medium)
+  * [Node.js](#nodejs)
   * [RPC - Remote procedure call](#rpc---remote-procedure-call)
   * [Ruby](#ruby)
 
@@ -16,6 +17,13 @@
 ## Docker
 ### Compose
 * [Useful Docker Compose with Rails](https://medium.com/@david.charles.weber/useful-docker-compose-with-rails-c6edcd0b9f13)
+
+## Medium
+* [OLX](https://medium.com/olxbr-tech)
+  * Favorites:
+  * [Transações distribuídas em microserviços](https://medium.com/olxbr-tech/transações-distribu%C3%ADdas-em-microserviços-345243925da5)
+* [QuintoAndar](https://medium.com/quintoandar-tech-blog)
+
 
 ## Node.js
 ### Security
