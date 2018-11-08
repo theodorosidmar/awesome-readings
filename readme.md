@@ -16,6 +16,8 @@
 * [Running Docker on AWS from the ground up](https://www.ybrikman.com/writing/2015/11/11/running-docker-aws-ground-up/#creating-an-elb)
 
 ## Design patterns
+### CQRS
+* [O que é? Onde aplicar?](http://www.eduardopires.net.br/2016/07/cqrs-o-que-e-onde-aplicar/) (Portuguese).
 ### Saga pattern
 * [A Saga on Sagas](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/jj591569(v=pandp.10)) - Process Managers, Coordinating Workflows, and Sagas: Clarifying the terminology
 * [Confusion about Saga Pattern](https://medium.com/@roman01la/confusion-about-saga-pattern-bbaac56e622)
@@ -30,10 +32,10 @@
 * [Useful Docker Compose with Rails](https://medium.com/@david.charles.weber/useful-docker-compose-with-rails-c6edcd0b9f13)
 
 ## Medium
-* [OLX](https://medium.com/olxbr-tech)
+* [OLX](https://medium.com/olxbr-tech) (Portuguese)
   * Favorites:
   * [Transações distribuídas em microserviços](https://medium.com/olxbr-tech/transações-distribu%C3%ADdas-em-microserviços-345243925da5)
-* [QuintoAndar](https://medium.com/quintoandar-tech-blog)
+* [QuintoAndar](https://medium.com/quintoandar-tech-blog) (Portuguese)
 
 ## Node.js
 ### Security
