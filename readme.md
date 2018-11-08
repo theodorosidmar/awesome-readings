@@ -2,6 +2,7 @@
 
 * [List](#list)
   * [Amazon Web Services](#amazon-web-services)
+  * [Design patterns](#design-patterns)
   * [Docker](#docker)
   * [Medium](#medium)
   * [Node.js](#nodejs)
@@ -14,6 +15,16 @@
 * [Docker-Compose + ECS](https://medium.com/@peatiscoding/docker-compose-ecs-91b033c8fdb6)
 * [Running Docker on AWS from the ground up](https://www.ybrikman.com/writing/2015/11/11/running-docker-aws-ground-up/#creating-an-elb)
 
+## Design patterns
+### Saga pattern
+* [A Saga on Sagas](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/jj591569(v=pandp.10)) - Process Managers, Coordinating Workflows, and Sagas: Clarifying the terminology
+* [Confusion about Saga Pattern](https://medium.com/@roman01la/confusion-about-saga-pattern-bbaac56e622)
+* How to implement business transactions using Microservices:
+  * [Part I](https://blog.couchbase.com/saga-pattern-implement-business-transactions-using-microservices-part/)
+  * [Part II](https://blog.couchbase.com/saga-pattern-implement-business-transactions-using-microservices-part-2/)
+* [Saga pattern and microservices architecture](https://medium.com/@tomasz_96685/saga-pattern-and-microservices-architecture-d4b46071afcf)
+* [Sagas](http://vasters.com/archive/Sagas.html)
+
 ## Docker
 ### Compose
 * [Useful Docker Compose with Rails](https://medium.com/@david.charles.weber/useful-docker-compose-with-rails-c6edcd0b9f13)
@@ -23,7 +34,6 @@
   * Favorites:
   * [Transações distribuídas em microserviços](https://medium.com/olxbr-tech/transações-distribu%C3%ADdas-em-microserviços-345243925da5)
 * [QuintoAndar](https://medium.com/quintoandar-tech-blog)
-
 
 ## Node.js
 ### Security
