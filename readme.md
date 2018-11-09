@@ -18,6 +18,8 @@
 ## Design patterns
 ### CQRS
 * [O que é? Onde aplicar?](http://www.eduardopires.net.br/2016/07/cqrs-o-que-e-onde-aplicar/) (Portuguese).
+* [CQRS](https://martinfowler.com/bliki/CQRS.html) - By Martin Fowler.
+
 ### Saga pattern
 * [A Saga on Sagas](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/jj591569(v=pandp.10)) - Process Managers, Coordinating Workflows, and Sagas: Clarifying the terminology
 * [Confusion about Saga Pattern](https://medium.com/@roman01la/confusion-about-saga-pattern-bbaac56e622)
