@@ -35,7 +35,7 @@
 * [OLX](https://medium.com/olxbr-tech) (Portuguese)
   * Favorites:
   * [Transações distribuídas em microserviços](https://medium.com/olxbr-tech/transações-distribu%C3%ADdas-em-microserviços-345243925da5)
-* [QuintoAndar](https://medium.com/quintoandar-tech-blog) (Portuguese)
+* [QuintoAndar](https://medium.com/quintoandar-tech-blog)
 
 ## Node.js
 ### Security
