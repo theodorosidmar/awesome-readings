@@ -34,6 +34,7 @@
 * [Useful Docker Compose with Rails](https://medium.com/@david.charles.weber/useful-docker-compose-with-rails-c6edcd0b9f13)
 
 ## Medium
+* [Nubank](https://medium.com/building-nubank)
 * [OLX](https://medium.com/olxbr-tech) (Portuguese)
   * Favorites:
   * [Transações distribuídas em microserviços](https://medium.com/olxbr-tech/transações-distribu%C3%ADdas-em-microserviços-345243925da5)
