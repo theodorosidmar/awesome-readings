@@ -3,7 +3,6 @@
 * [List](#list)
   * [Amazon Web Services](#amazon-web-services)
   * [Design patterns](#design-patterns)
-  * [Docker](#docker)
   * [Elixir](#elixir)
   * [Medium](#medium)
   * [Node.js](#nodejs)
@@ -30,10 +29,6 @@
 * [Saga pattern and microservices architecture](https://medium.com/@tomasz_96685/saga-pattern-and-microservices-architecture-d4b46071afcf)
 * [Sagas](http://vasters.com/archive/Sagas.html)
 
-## Docker
-### Compose
-* [Useful Docker Compose with Rails](https://medium.com/@david.charles.weber/useful-docker-compose-with-rails-c6edcd0b9f13)
-
 ## Elixir
 * [Implementing AMQP in an Elixir Application](https://medium.com/caspertechteam/implementing-amqp-in-an-elixir-application-20734635436) - Monitoring the Consumers.
 
@@ -57,5 +52,9 @@
 ## Ruby
 ### Sinatra
 * [First Steps with Sinatra as a Rails Developer](https://www.netguru.co/codestories/first-steps-sinatra-1)
+
+### Rails
+* [Useful Docker Compose with Rails](https://medium.com/@david.charles.weber/useful-docker-compose-with-rails-c6edcd0b9f13)
+
 ### RSpec
 * [Better Specs](http://www.betterspecs.org/) - RSpec guidelines with ruby.
