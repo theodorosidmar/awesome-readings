@@ -4,6 +4,7 @@
   * [Amazon Web Services](#amazon-web-services)
   * [Design patterns](#design-patterns)
   * [Docker](#docker)
+  * [Elixir](#elixir)
   * [Medium](#medium)
   * [Node.js](#nodejs)
   * [RPC - Remote procedure call](#rpc---remote-procedure-call)
@@ -32,6 +33,9 @@
 ## Docker
 ### Compose
 * [Useful Docker Compose with Rails](https://medium.com/@david.charles.weber/useful-docker-compose-with-rails-c6edcd0b9f13)
+
+## Elixir
+* [Implementing AMQP in an Elixir Application](https://medium.com/caspertechteam/implementing-amqp-in-an-elixir-application-20734635436) - Monitoring the Consumers.
 
 ## Medium
 * [Nubank](https://medium.com/building-nubank)
