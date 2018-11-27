@@ -13,7 +13,7 @@
 ### ECS
 * [Amazon ECS: using the CLI with Docker Compose](https://medium.com/@Electricste/amazon-ecs-using-the-cli-with-docker-compose-74287f19b181)
 * [Docker-Compose + ECS](https://medium.com/@peatiscoding/docker-compose-ecs-91b033c8fdb6)
-* [Running Docker on AWS from the ground up](https://www.ybrikman.com/writing/2015/11/11/running-docker-aws-ground-up/#creating-an-elb)
+* [Running Docker on AWS from the ground up](https://www.ybrikman.com/writing/2015/11/11/running-docker-aws-ground-up)
 
 ## Design patterns
 ### CQRS
