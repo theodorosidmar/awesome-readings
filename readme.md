@@ -4,6 +4,7 @@
   * [Amazon Web Services](#amazon-web-services)
   * [Design patterns](#design-patterns)
   * [Elixir](#elixir)
+  * [Functional programming](#functional-programming)
   * [Medium](#medium)
   * [Node.js](#nodejs)
   * [RPC - Remote procedure call](#rpc---remote-procedure-call)
@@ -34,6 +35,9 @@
 
 ## Elixir
 * [Implementing AMQP in an Elixir Application](https://medium.com/caspertechteam/implementing-amqp-in-an-elixir-application-20734635436) - Monitoring the Consumers.
+
+## Functional programming
+* [Demystifying functional programming](https://medium.com/building-nubank/demystifying-functional-programming-in-a-real-company-e954a2591504) - in a real company.
 
 ## Medium
 * [Nubank](https://medium.com/building-nubank)
