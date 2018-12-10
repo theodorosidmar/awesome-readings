@@ -8,6 +8,7 @@
   * [Node.js](#nodejs)
   * [RPC - Remote procedure call](#rpc---remote-procedure-call)
   * [Ruby](#ruby)
+  * [WebSocket](#websocket)
 
 ## Amazon Web Services
 ### ECS
@@ -60,3 +61,6 @@
 
 ### RSpec
 * [Better Specs](http://www.betterspecs.org/) - RSpec guidelines with ruby.
+
+## WebSocket
+* [Why you don't need Socket.IO](https://codeburst.io/why-you-don-t-need-socket-io-6848f1c871cd)
