@@ -5,6 +5,7 @@
   * [Design patterns](#design-patterns)
   * [Elixir](#elixir)
   * [Functional programming](#functional-programming)
+  * [Kafka](#kafka)
   * [Medium](#medium)
   * [Node.js](#nodejs)
   * [RPC - Remote procedure call](#rpc---remote-procedure-call)
@@ -38,6 +39,11 @@
 
 ## Functional programming
 * [Demystifying functional programming](https://medium.com/building-nubank/demystifying-functional-programming-in-a-real-company-e954a2591504) - in a real company.
+
+## Kafka
+* [Apache Kafka Tutorial](https://medium.com/@patelharshali136/apache-kafka-tutorial-kafka-for-beginners-a58140cef84f) - For beginners
+* [Aprendendo na prática](https://medium.com/trainingcenter/apache-kafka-codificação-na-pratica-9c6a4142a08f) (Portuguese)
+* [O que é esse tal de Apache Kafka?](https://medium.com/@gabrielqueiroz/o-que-é-esse-tal-de-apache-kafka-a8f447cac028) (Portuguese)
 
 ## Medium
 * [Nubank](https://medium.com/building-nubank)
