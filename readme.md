@@ -21,6 +21,13 @@
 * [Running Docker on AWS from the ground up](https://www.ybrikman.com/writing/2015/11/11/running-docker-aws-ground-up)
 
 ## Design patterns
+### Circuit breaker
+* [Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html) - By Martin Fowler
+* [Design pattern para microservices](https://medium.com/trainingcenter/design-pattern-para-microservices-circuit-breaker-f4a5b68f73d1) (Portuguese)
+* Netflix:
+  * [Fault Tolerance in a High Volume, Distributed System](https://medium.com/netflix-techblog/fault-tolerance-in-a-high-volume-distributed-system-91ab4faae74a)
+  * [Making the Netflix API More Resilient](https://medium.com/netflix-techblog/making-the-netflix-api-more-resilient-a8ec62159c2d)
+
 ### CQRS
 * [O que é? Onde aplicar?](http://www.eduardopires.net.br/2016/07/cqrs-o-que-e-onde-aplicar/) (Portuguese).
 * [CQRS](https://martinfowler.com/bliki/CQRS.html) - By Martin Fowler.
@@ -34,6 +41,9 @@
 * [Saga pattern and microservices architecture](https://medium.com/@tomasz_96685/saga-pattern-and-microservices-architecture-d4b46071afcf)
 * [Sagas](http://vasters.com/archive/Sagas.html)
 
+### Twelve Factor
+* [Twelve Factor App](https://medium.com/trainingcenter/twelve-factor-app-f51665af95e7) - Boas práticas para microsserviços (Portuguese)
+
 ## Elixir
 * [Implementing AMQP in an Elixir Application](https://medium.com/caspertechteam/implementing-amqp-in-an-elixir-application-20734635436) - Monitoring the Consumers.
 
@@ -46,6 +56,7 @@
 * [O que é esse tal de Apache Kafka?](https://medium.com/@gabrielqueiroz/o-que-é-esse-tal-de-apache-kafka-a8f447cac028) (Portuguese)
 
 ## Medium
+* [Netflix](https://medium.com/@NetflixTechBlog)
 * [Nubank](https://medium.com/building-nubank)
 * [OLX](https://medium.com/olxbr-tech) (Portuguese)
   * Favorites:
