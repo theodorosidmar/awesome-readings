@@ -5,6 +5,7 @@
   * [Design patterns](#design-patterns)
   * [Elixir](#elixir)
   * [Functional programming](#functional-programming)
+  * [GraphQL](#graphql)
   * [Kafka](#kafka)
   * [Medium](#medium)
   * [Node.js](#nodejs)
@@ -49,6 +50,9 @@
 
 ## Functional programming
 * [Demystifying functional programming](https://medium.com/building-nubank/demystifying-functional-programming-in-a-real-company-e954a2591504) - in a real company.
+
+## GraphQL
+* [Our learnings from adopting GraphQL](https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f) - Netflix
 
 ## Kafka
 * [Apache Kafka Tutorial](https://medium.com/@patelharshali136/apache-kafka-tutorial-kafka-for-beginners-a58140cef84f) - For beginners
