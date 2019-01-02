@@ -22,6 +22,9 @@
 * [Running Docker on AWS from the ground up](https://www.ybrikman.com/writing/2015/11/11/running-docker-aws-ground-up)
 
 ## Design patterns
+### Backends for Frontends
+* [Backends for Frontends pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/backends-for-frontends)
+
 ### Circuit breaker
 * [Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html) - By Martin Fowler
 * [Design pattern para microservices](https://medium.com/trainingcenter/design-pattern-para-microservices-circuit-breaker-f4a5b68f73d1) (Portuguese)
