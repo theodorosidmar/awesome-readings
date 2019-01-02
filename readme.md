@@ -68,6 +68,8 @@
 * [QuintoAndar](https://medium.com/quintoandar-tech-blog)
 
 ## Node.js
+### JavaScript
+* [Useful JavaScript array and object methods](https://codeburst.io/useful-javascript-array-and-object-methods-6c7971d93230)
 ### Security
 * [We're under attack!](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d) -  23+ Node.js security best practices.
 
