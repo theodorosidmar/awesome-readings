@@ -8,6 +8,7 @@
   * [GraphQL](#graphql)
   * [Kafka](#kafka)
   * [Medium](#medium)
+  * [Nginx](#nginx)
   * [Node.js](#nodejs)
   * [RPC - Remote procedure call](#rpc---remote-procedure-call)
   * [Ruby](#ruby)
@@ -69,6 +70,10 @@
   * Favorites:
   * [Transações distribuídas em microserviços](https://medium.com/olxbr-tech/transações-distribu%C3%ADdas-em-microserviços-345243925da5)
 * [QuintoAndar](https://medium.com/quintoandar-tech-blog)
+
+## Nginx
+* [Setting up a Reverse-Proxy with Nginx and docker-compose](https://dev.to/domysee/setting-up-a-reverse-proxy-with-nginx-and-docker-compose-29jg)
+* [Docker compose: Nginx reverse proxy with multiple containers](https://www.bogotobogo.com/DevOps/Docker/Docker-Compose-Nginx-Reverse-Proxy-Multiple-Containers.php)
 
 ## Node.js
 ### JavaScript
