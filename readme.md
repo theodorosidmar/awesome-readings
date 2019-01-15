@@ -34,8 +34,18 @@
   * [Making the Netflix API More Resilient](https://medium.com/netflix-techblog/making-the-netflix-api-more-resilient-a8ec62159c2d)
 
 ### CQRS
-* [O que é? Onde aplicar?](http://www.eduardopires.net.br/2016/07/cqrs-o-que-e-onde-aplicar/) (Portuguese).
 * [CQRS](https://martinfowler.com/bliki/CQRS.html) - By Martin Fowler.
+* [O que é? Onde aplicar?](http://www.eduardopires.net.br/2016/07/cqrs-o-que-e-onde-aplicar/) (Portuguese).
+
+### Messaging pattern (and brokers)
+* [Messaging Patterns for Event-Driven Microservices](https://content.pivotal.io/blog/messaging-patterns-for-event-driven-microservices)
+* RabbitMQ best practices for High Performance (High Throughput) - By CloudAMQP
+  * [Part I](https://www.cloudamqp.com/blog/2017-12-29-part1-rabbitmq-best-practice.html)
+  * [Part II](https://www.cloudamqp.com/blog/2018-01-08-part2-rabbitmq-best-practice-for-high-performance.html)
+  * [Part III](https://www.cloudamqp.com/blog/2018-01-09-part3-rabbitmq-best-practice-for-high-availability.html)
+  * [Part IV](https://www.cloudamqp.com/blog/2018-01-19-part4-rabbitmq-13-common-errors.html) - 13 common mistakes
+* [RabbitMQ Hits One Million Messages Per Second on Google Compute Engine](https://content.pivotal.io/blog/rabbitmq-hits-one-million-messages-per-second-on-google-compute-engine)
+* [Understanding When to use RabbitMQ or Apache Kafka](https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka)
 
 ### Saga pattern
 * [A Saga on Sagas](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/jj591569(v=pandp.10)) - Process Managers, Coordinating Workflows, and Sagas: Clarifying the terminology
