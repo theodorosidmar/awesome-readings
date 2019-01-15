@@ -34,8 +34,8 @@
   * [Making the Netflix API More Resilient](https://medium.com/netflix-techblog/making-the-netflix-api-more-resilient-a8ec62159c2d)
 
 ### CQRS
-* [CQRS](https://martinfowler.com/bliki/CQRS.html) - By Martin Fowler.
-* [O que é? Onde aplicar?](http://www.eduardopires.net.br/2016/07/cqrs-o-que-e-onde-aplicar/) (Portuguese).
+* [CQRS](https://martinfowler.com/bliki/CQRS.html) - By Martin Fowler
+* [O que é? Onde aplicar?](http://www.eduardopires.net.br/2016/07/cqrs-o-que-e-onde-aplicar/) (Portuguese)
 
 ### Messaging pattern (and brokers)
 * [Messaging Patterns for Event-Driven Microservices](https://content.pivotal.io/blog/messaging-patterns-for-event-driven-microservices)
@@ -46,6 +46,9 @@
   * [Part IV](https://www.cloudamqp.com/blog/2018-01-19-part4-rabbitmq-13-common-errors.html) - 13 common mistakes
 * [RabbitMQ Hits One Million Messages Per Second on Google Compute Engine](https://content.pivotal.io/blog/rabbitmq-hits-one-million-messages-per-second-on-google-compute-engine)
 * [Understanding When to use RabbitMQ or Apache Kafka](https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka)
+
+### Polyglot pattern
+* [PolyglotPersistence](https://martinfowler.com/bliki/PolyglotPersistence.html) - By Martin Fowler
 
 ### Saga pattern
 * [A Saga on Sagas](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/jj591569(v=pandp.10)) - Process Managers, Coordinating Workflows, and Sagas: Clarifying the terminology
@@ -60,10 +63,10 @@
 * [Twelve Factor App](https://medium.com/trainingcenter/twelve-factor-app-f51665af95e7) - Boas práticas para microsserviços (Portuguese)
 
 ## Elixir
-* [Implementing AMQP in an Elixir Application](https://medium.com/caspertechteam/implementing-amqp-in-an-elixir-application-20734635436) - Monitoring the Consumers.
+* [Implementing AMQP in an Elixir Application](https://medium.com/caspertechteam/implementing-amqp-in-an-elixir-application-20734635436) - Monitoring the Consumers
 
 ## Functional programming
-* [Demystifying functional programming](https://medium.com/building-nubank/demystifying-functional-programming-in-a-real-company-e954a2591504) - in a real company.
+* [Demystifying functional programming](https://medium.com/building-nubank/demystifying-functional-programming-in-a-real-company-e954a2591504) - in a real company
 
 ## GraphQL
 * [Our learnings from adopting GraphQL](https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f) - Netflix
@@ -89,13 +92,13 @@
 ### JavaScript
 * [Useful JavaScript array and object methods](https://codeburst.io/useful-javascript-array-and-object-methods-6c7971d93230)
 ### Security
-* [We're under attack!](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d) -  23+ Node.js security best practices.
+* [We're under attack!](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d) -  23+ Node.js security best practices
 
 ## RPC - Remote procedure call
-* [Google's gRPC](https://thenewstack.io/grpc-lean-mean-communication-protocol-microservices/) - A Lean and Mean Communication Protocol for Microservices.
+* [Google's gRPC](https://thenewstack.io/grpc-lean-mean-communication-protocol-microservices/) - A Lean and Mean Communication Protocol for Microservices
 * [Implementing Remote Procedure Calls With gRPC and Protocol Buffers](https://scotch.io/tutorials/implementing-remote-procedure-calls-with-grpc-and-protocol-buffers)
-* [REST vs RPC](https://www.linkedin.com/pulse/rest-vs-rpc-soa-showdown-joshua-hartman/) - The SOA showdown. By [Joshua Hartman](https://www.linkedin.com/in/joshuahartman/), Director Of Engineering at LinkedIn.
-* [Why we have decided to move our APIs to gRPC](https://grpc.io/blog/vendastagrpc) - By Dale Hopkins, CTO of [Vendasta](https://www.vendasta.com).
+* [REST vs RPC](https://www.linkedin.com/pulse/rest-vs-rpc-soa-showdown-joshua-hartman/) - The SOA showdown. By [Joshua Hartman](https://www.linkedin.com/in/joshuahartman/), Director Of Engineering at LinkedIn
+* [Why we have decided to move our APIs to gRPC](https://grpc.io/blog/vendastagrpc) - By Dale Hopkins, CTO of [Vendasta](https://www.vendasta.com)
 
 ## Ruby
 ### Sinatra
@@ -105,7 +108,7 @@
 * [Useful Docker Compose with Rails](https://medium.com/@david.charles.weber/useful-docker-compose-with-rails-c6edcd0b9f13)
 
 ### RSpec
-* [Better Specs](http://www.betterspecs.org/) - RSpec guidelines with ruby.
+* [Better Specs](http://www.betterspecs.org/) - RSpec guidelines with Ruby
 
 ## WebSocket
 * [Why you don't need Socket.IO](https://codeburst.io/why-you-don-t-need-socket-io-6848f1c871cd)
