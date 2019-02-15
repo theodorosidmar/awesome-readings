@@ -4,6 +4,7 @@
   * [Amazon Web Services](#amazon-web-services)
   * [Design patterns](#design-patterns)
   * [Elixir](#elixir)
+  * [ELK Stack](#elk-stack)
   * [Functional programming](#functional-programming)
   * [GraphQL](#graphql)
   * [Kafka](#kafka)
@@ -65,6 +66,9 @@
 
 ## Elixir
 * [Implementing AMQP in an Elixir Application](https://medium.com/caspertechteam/implementing-amqp-in-an-elixir-application-20734635436) - Monitoring the Consumers
+
+## ELK Stack
+* [Powerful logging with Docker, Filebeat and Elasticsearch](https://medium.com/@bcoste/powerful-logging-with-docker-filebeat-and-elasticsearch-8ad021aecd87)
 
 ## Functional programming
 * [Demystifying functional programming](https://medium.com/building-nubank/demystifying-functional-programming-in-a-real-company-e954a2591504) - in a real company
