@@ -13,6 +13,7 @@
   * [Node.js](#nodejs)
   * [RPC - Remote procedure call](#rpc---remote-procedure-call)
   * [Ruby](#ruby)
+  * [Serverless](#serverless)
   * [WebSocket](#websocket)
 * [See also](#see-also)
 
@@ -115,6 +116,9 @@
 
 ### RSpec
 * [Better Specs](http://www.betterspecs.org/) - RSpec guidelines with Ruby
+
+## Serverless
+* [The best ways to test your serverless applications](https://medium.freecodecamp.org/the-best-ways-to-test-your-serverless-applications-40b88d6ee31e)
 
 ## WebSocket
 * [Why you don't need Socket.IO](https://codeburst.io/why-you-don-t-need-socket-io-6848f1c871cd)
