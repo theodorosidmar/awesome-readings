@@ -122,6 +122,7 @@
 * [Better Specs](http://www.betterspecs.org/) - RSpec guidelines with Ruby
 
 ## Serverless
+* [Serverless Testing Strategies](https://medium.com/@didil/serverless-testing-strategies-393bffb0eef8)
 * [The best ways to test your serverless applications](https://medium.freecodecamp.org/the-best-ways-to-test-your-serverless-applications-40b88d6ee31e)
 
 ## WebSocket
