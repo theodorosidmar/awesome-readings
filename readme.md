@@ -128,4 +128,5 @@
 * [Why you don't need Socket.IO](https://codeburst.io/why-you-don-t-need-socket-io-6848f1c871cd)
 
 ## See also
+* [A career is a marathon. Not a sprint](https://leaderonomics.com/personal/a-career-is-a-marathon-not-a-sprint)
 * [All Time Favorites](http://highscalability.com/all-time-favorites/) posts on [High Scalability](http://highscalability.com)
