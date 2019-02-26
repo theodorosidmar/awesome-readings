@@ -124,6 +124,7 @@
 ## Serverless
 * [Serverless Testing Strategies](https://medium.com/@didil/serverless-testing-strategies-393bffb0eef8)
 * [The best ways to test your serverless applications](https://medium.freecodecamp.org/the-best-ways-to-test-your-serverless-applications-40b88d6ee31e)
+* [Your CORS and API Gateway survival guide](https://serverless.com/blog/cors-api-gateway-survival-guide/) - Serverless blog
 
 ## WebSocket
 * [Why you don't need Socket.IO](https://codeburst.io/why-you-don-t-need-socket-io-6848f1c871cd)
