@@ -11,6 +11,7 @@
   * [Medium](#medium)
   * [Nginx](#nginx)
   * [Node.js](#nodejs)
+  * [PostgreSQL](#postgresql)
   * [RPC - Remote procedure call](#rpc---remote-procedure-call)
   * [Ruby](#ruby)
   * [Serverless](#serverless)
@@ -100,6 +101,9 @@
 * [Useful JavaScript array and object methods](https://codeburst.io/useful-javascript-array-and-object-methods-6c7971d93230)
 ### Security
 * [We're under attack!](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d) -  23+ Node.js security best practices
+
+## PostgreSQL
+* [Returning Hierarchical Data in a Single SQL Query](https://bender.io/2013/09/22/returning-hierarchical-data-in-a-single-sql-query/)
 
 ## RPC - Remote procedure call
 * [Google's gRPC](https://thenewstack.io/grpc-lean-mean-communication-protocol-microservices/) - A Lean and Mean Communication Protocol for Microservices
