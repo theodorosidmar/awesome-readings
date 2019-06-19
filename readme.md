@@ -130,6 +130,7 @@
 ## Serverless
 * [15 Key Takeaways from the Serverless Talk at AWS Startup Day](https://www.jeremydaly.com/15-key-takeaways-from-the-serverless-talk-at-aws-startup-day/)
 * [19 Serverless microservice patterns for AWS](https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/)
+* [How To: Reuse Database Connection in AWS Lambda](https://www.jeremydaly.com/reuse-database-connections-aws-lambda/)
 * [How To: Use SNS and SQS to Distribute and Throttle Events](https://www.jeremydaly.com/how-to-use-sns-and-sqs-to-distribute-and-throttle-events/)
 * [Serverless Testing Strategies](https://medium.com/@didil/serverless-testing-strategies-393bffb0eef8)
 * [The best ways to test your serverless applications](https://medium.freecodecamp.org/the-best-ways-to-test-your-serverless-applications-40b88d6ee31e)
