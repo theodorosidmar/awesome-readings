@@ -109,6 +109,7 @@
 * [We're under attack!](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d) -  23+ Node.js security best practices
 
 ## PostgreSQL
+* [JSON tutorial](http://www.postgresqltutorial.com/postgresql-json/)
 * [Returning Hierarchical Data in a Single SQL Query](https://bender.io/2013/09/22/returning-hierarchical-data-in-a-single-sql-query/)
 
 ## RPC - Remote procedure call
