@@ -131,6 +131,7 @@
 ## Serverless
 * [15 Key Takeaways from the Serverless Talk at AWS Startup Day](https://www.jeremydaly.com/15-key-takeaways-from-the-serverless-talk-at-aws-startup-day/)
 * [19 Serverless microservice patterns for AWS](https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/)
+* [Applying the pub-sub and push-pull messaging patterns with AWS Lambda](https://hackernoon.com/applying-the-pub-sub-and-push-pull-messaging-patterns-with-aws-lambda-73d5ee346faa)
 * [How To: Manage RDS Connections from AWS Lambda Serverless Functions](https://www.jeremydaly.com/manage-rds-connections-aws-lambda/)
 * [How To: Reuse Database Connection in AWS Lambda](https://www.jeremydaly.com/reuse-database-connections-aws-lambda/)
 * [How To: Use SNS and SQS to Distribute and Throttle Events](https://www.jeremydaly.com/how-to-use-sns-and-sqs-to-distribute-and-throttle-events/)
