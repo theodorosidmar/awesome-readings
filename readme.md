@@ -9,6 +9,7 @@
   * [Functional programming](#functional-programming)
   * [GraphQL](#graphql)
   * [Kafka](#kafka)
+  * [Kubernetes](#kubernetes)
   * [Medium](#medium)
   * [Nginx](#nginx)
   * [Node.js](#nodejs)
@@ -88,6 +89,9 @@
 * [Apache Kafka Tutorial](https://medium.com/@patelharshali136/apache-kafka-tutorial-kafka-for-beginners-a58140cef84f) - For beginners
 * [Aprendendo na prática](https://medium.com/trainingcenter/apache-kafka-codificação-na-pratica-9c6a4142a08f) (Portuguese)
 * [O que é esse tal de Apache Kafka?](https://medium.com/@gabrielqueiroz/o-que-é-esse-tal-de-apache-kafka-a8f447cac028) (Portuguese)
+
+## Kubernetes
+* [Migração do EC2 para o Kubernetes](https://medium.com/doghero-brasil/migração-do-ec2-para-o-kubernetes-81d76eab5445) (Portuguese)
 
 ## Medium
 * [Netflix](https://medium.com/@NetflixTechBlog)
