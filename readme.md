@@ -119,9 +119,11 @@
 ## RPC - Remote procedure call
 ### gRPC
 * [Building a Scaleable Protocol Buffers/gRPC Artifact Pipeline](https://medium.com/building-ibotta/building-a-scaleable-protocol-buffers-grpc-artifact-pipeline-5265c5118c9d)
-* Building scalable microservices with gRPC
+* Building scalable microservices with gRPC - [Bugsnag Blog](https://www.bugsnag.com/blog)
   * [Part I](https://www.bugsnag.com/blog/grpc-and-microservices-architecture)
   * [Part II](https://www.bugsnag.com/blog/libraries-for-grpc-services) - Packaging Generated Code for gRPC Services
+  * [Part III](https://www.bugsnag.com/blog/using-grpc-in-production) - Our experience designing and building gRPC services
+  * [Extra](https://www.bugsnag.com/blog/envoy) - Using Envoy to Load Balance gRPC Traffic
 * [Google's gRPC](https://thenewstack.io/grpc-lean-mean-communication-protocol-microservices/) - A Lean and Mean Communication Protocol for Microservices
 * [How We Build gRPC Services At Namely](https://medium.com/namely-labs/how-we-build-grpc-services-at-namely-52a3ae9e7c35)
 * [Implementing Remote Procedure Calls With gRPC and Protocol Buffers](https://scotch.io/tutorials/implementing-remote-procedure-calls-with-grpc-and-protocol-buffers)
