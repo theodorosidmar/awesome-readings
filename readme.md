@@ -125,6 +125,7 @@
   * [Part III](https://www.bugsnag.com/blog/using-grpc-in-production) - Our experience designing and building gRPC services
   * [Extra](https://www.bugsnag.com/blog/envoy) - Using Envoy to Load Balance gRPC Traffic
 * [Google's gRPC](https://thenewstack.io/grpc-lean-mean-communication-protocol-microservices/) - A Lean and Mean Communication Protocol for Microservices
+* [gRPC in Microservices](https://levelup.gitconnected.com/grpc-in-microservices-5887caef195)
 * [How We Build gRPC Services At Namely](https://medium.com/namely-labs/how-we-build-grpc-services-at-namely-52a3ae9e7c35)
 * [Implementing Remote Procedure Calls With gRPC and Protocol Buffers](https://scotch.io/tutorials/implementing-remote-procedure-calls-with-grpc-and-protocol-buffers)
 * [REST vs RPC](https://www.linkedin.com/pulse/rest-vs-rpc-soa-showdown-joshua-hartman/) - The SOA showdown. By [Joshua Hartman](https://www.linkedin.com/in/joshuahartman/), Director Of Engineering at LinkedIn
