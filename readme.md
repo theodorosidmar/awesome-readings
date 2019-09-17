@@ -11,6 +11,7 @@
   * [Kafka](#kafka)
   * [Kubernetes](#kubernetes)
   * [Medium](#medium)
+  * [NestJS](#nestjs)
   * [Nginx](#nginx)
   * [Node.js](#nodejs)
   * [PostgreSQL](#postgresql)
@@ -100,6 +101,22 @@
   * Favorites:
   * [Transações distribuídas em microserviços](https://medium.com/olxbr-tech/transações-distribu%C3%ADdas-em-microserviços-345243925da5)
 * [QuintoAndar](https://medium.com/quintoandar-tech-blog)
+
+## NestJS
+* Clock-in/out system - [Carlos Caballero blog](https://www.carloscaballero.io/)
+  * [Part I](https://www.carloscaballero.io/part-1-clock-in-out-system-diagram/) - Diagram
+  * [Part II](https://www.carloscaballero.io/part-2-clock-in-out-system-basic-backend/) - Basic backend (I) - AuthModule
+  * [Part III](https://www.carloscaballero.io/part-3-clock-in-out-system-basic-backend-ii-usersmodule/) - Basic backend (II) - UsersModule
+  * [Part IV](https://www.carloscaballero.io/part-4-clock-in-out-system-basic-backend-iii-appmodule/) - Basic backend (III) - AppModule
+  * [Part V](https://www.carloscaballero.io/part-5-clock-in-out-system-seed-database-and-migration-data/) - Seed Database and migration data
+  * [Part VI](https://www.carloscaballero.io/part-6-clock-in-out-system-basic-frontend/) - Basic frontend
+  * [Part VII](https://www.carloscaballero.io/part-7-deploy-docker-docker-compose/) - Deploy Backend (NestJS): Docker/Docker-Compose
+  * [Part VIII](https://www.carloscaballero.io/part-8-deploy-frontend-angular-docker-docker-compose/) - Deploy frontend (Angular 6+) using environments
+  * [Part IX](https://www.carloscaballero.io/part-9-clock-in-out-system-testing-backend-unit-test-services/) - Testing: Backend Testing - Unit Testing - Services
+  * [Part X](https://www.carloscaballero.io/part-10-clock-in-out-system-testing-backend-unit-test-controllers/) - Testing: Backend Testing - Unit Testing - Controllers
+  * Part XI - Testing: Backend Testing - E2E Testing
+  * Part XII - Testing: Frontend Testing - Unit Testing - Services
+  * Part XIII - Testing: Frontend Testing - Unit Testing - Controllers
 
 ## Nginx
 * [Setting up a Reverse-Proxy with Nginx and docker-compose](https://dev.to/domysee/setting-up-a-reverse-proxy-with-nginx-and-docker-compose-29jg)
