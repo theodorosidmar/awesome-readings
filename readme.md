@@ -103,6 +103,7 @@
 * [QuintoAndar](https://medium.com/quintoandar-tech-blog)
 
 ## NestJS
+* [Advanced NestJS: Dynamic Providers](https://dev.to/nestjs/advanced-nestjs-dynamic-providers-1ee)
 * Clock-in/out system - [Carlos Caballero blog](https://www.carloscaballero.io/)
   * [Part I](https://www.carloscaballero.io/part-1-clock-in-out-system-diagram/) - Diagram
   * [Part II](https://www.carloscaballero.io/part-2-clock-in-out-system-basic-backend/) - Basic backend (I) - AuthModule
