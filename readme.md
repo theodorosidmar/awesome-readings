@@ -74,7 +74,9 @@
 * [Twelve Factor App](https://medium.com/trainingcenter/twelve-factor-app-f51665af95e7) - Boas práticas para microsserviços (Portuguese)
 
 ## Elixir
+* [How Discord Scaled Elixir to 5,000,000 Concurrent Users](https://blog.discordapp.com/scaling-elixir-f9b8e1e7c29b)
 * [Implementing AMQP in an Elixir Application](https://medium.com/caspertechteam/implementing-amqp-in-an-elixir-application-20734635436) - Monitoring the Consumers
+* [Why we choose Elixir as the main technology for our startup?](https://medium.com/flipay/why-we-choose-elixir-as-the-main-technology-for-our-startup-30fe3b57ee31) -Flipay
 
 ## ELK Stack
 * [Powerful logging with Docker, Filebeat and Elasticsearch](https://medium.com/@bcoste/powerful-logging-with-docker-filebeat-and-elasticsearch-8ad021aecd87)
