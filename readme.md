@@ -7,6 +7,7 @@
   * [Elixir](#elixir)
   * [ELK Stack](#elk-stack)
   * [Functional programming](#functional-programming)
+  * [Golang](#go)
   * [GraphQL](#graphql)
   * [Kafka](#kafka)
   * [Kubernetes](#kubernetes)
@@ -83,6 +84,9 @@
 
 ## Functional programming
 * [Demystifying functional programming](https://medium.com/building-nubank/demystifying-functional-programming-in-a-real-company-e954a2591504) - in a real company
+
+## Go
+* [Parsing 18 billion linnes json with go](https://itnext.io/parsing-18-billion-lines-json-with-go-738be6ee5ed2)
 
 ## GraphQL
 * [Our learnings from adopting GraphQL](https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f) - Netflix
