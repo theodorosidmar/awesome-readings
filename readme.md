@@ -30,6 +30,9 @@
 * [Gentle Introduction to How AWS ECS Works](https://medium.com/boltops/gentle-introduction-to-how-aws-ecs-works-with-example-tutorial-cea3d27ce63d) - with Example Tutorial (and 25mins video).
 * [Running Docker on AWS from the ground up](https://www.ybrikman.com/writing/2015/11/11/running-docker-aws-ground-up)
 
+### Lambda
+* [Benchmarking AWS Lambda runtimes in 2019](https://medium.com/the-theam-journey/benchmarking-aws-lambda-runtimes-in-2019-part-i-b1ee459a293d) - Part I
+
 ## Data structures
 ### Linked lists
 * [Linked Lists in JavaScript](https://codeburst.io/linked-lists-in-javascript-es6-code-part-1-6dd349c3dcc3) - ES6 code
