@@ -19,6 +19,7 @@
   * [RPC - Remote procedure call](#rpc---remote-procedure-call)
   * [Ruby](#ruby)
   * [Serverless](#serverless)
+  * [Spring](#spring)
   * [WebSocket](#websocket)
 * [See also](#see-also)
 
@@ -178,6 +179,12 @@
 * [Serverless Testing Strategies](https://medium.com/@didil/serverless-testing-strategies-393bffb0eef8)
 * [The best ways to test your serverless applications](https://medium.freecodecamp.org/the-best-ways-to-test-your-serverless-applications-40b88d6ee31e)
 * [Your CORS and API Gateway survival guide](https://serverless.com/blog/cors-api-gateway-survival-guide/) - Serverless blog
+
+## Spring
+* Microservices with Spring Boot and Spring Cloud. From config server to OAuth2 server (without inMemory things)
+  * [Part I](https://itnext.io/microservices-with-spring-boot-and-spring-cloud-16d2c056ba12)
+  * [Part II](https://itnext.io/microservices-with-spring-boot-and-spring-cloud-20f689b17fc7)
+  * [Part III](https://itnext.io/microservices-with-spring-boot-and-spring-cloud-441e3dabc67d)
 
 ## WebSocket
 * [Why you don't need Socket.IO](https://codeburst.io/why-you-don-t-need-socket-io-6848f1c871cd)
