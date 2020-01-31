@@ -2,6 +2,7 @@
 
 * [List](#list)
   * [Amazon Web Services](#amazon-web-services)
+  * [Architecture](#architecture)
   * [Data structures](#data-structures)
   * [Design patterns](#design-patterns)
   * [Elixir](#elixir)
@@ -33,6 +34,13 @@
 
 ### Lambda
 * [Benchmarking AWS Lambda runtimes in 2019](https://medium.com/the-theam-journey/benchmarking-aws-lambda-runtimes-in-2019-part-i-b1ee459a293d) - Part I
+
+## Architecture
+* Patterns for Resilient Architecture
+  * [Part I](https://medium.com/@adhorn/patterns-for-resilient-architecture-part-1-d3b60cd8d2b6) - Embracing Failure at Scale
+  * [Part II](https://medium.com/@adhorn/patterns-for-resilient-architecture-part-2-9b51a7e2f10f) - Avoiding Cascading Failures
+  * [Part III](https://medium.com/@adhorn/patterns-for-resilient-architecture-part-3-16e8601c488e) - Preventing Service Failures with Health Check
+  * [Part IV](https://medium.com/@adhorn/patterns-for-resilient-architecture-part-4-85afa66d6341) - Caching for Resiliency
 
 ## Data structures
 ### Linked lists
