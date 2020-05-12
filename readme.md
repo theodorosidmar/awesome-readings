@@ -201,4 +201,5 @@
 * [A career is a marathon. Not a sprint](https://leaderonomics.com/personal/a-career-is-a-marathon-not-a-sprint)
 * [A Heurística da Jóia do Tempo do Dr. Estranho](https://gabrielschade.github.io/2019/04/04/avengers-joia-tempo-heuristica.html) (Portuguese)
 * [All Time Favorites](http://highscalability.com/all-time-favorites/) posts on [High Scalability](http://highscalability.com)
+* [How Discord stores billions of messages](https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7)
 * [Uber Engineering Blog](https://eng.uber.com/)
