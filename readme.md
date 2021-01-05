@@ -10,6 +10,7 @@
   * [Functional programming](#functional-programming)
   * [Golang](#go)
   * [GraphQL](#graphql)
+  * [Heroku](#heroku)
   * [Kafka](#kafka)
   * [Kubernetes](#kubernetes)
   * [Medium](#medium)
@@ -103,6 +104,9 @@
 ## GraphQL
 * [Our learnings from adopting GraphQL](https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f) - Netflix
 * [Running a scalable & reliable GraphQL endpoint with Serverless](https://serverless.com/blog/running-scalable-reliable-graphql-endpoint-with-serverless/)
+
+## Heroku
+* [Keeping my heroku app alive](https://medium.com/better-programming/keeping-my-heroku-app-alive-b19f3a8c3a82)
 
 ## Kafka
 * [Apache Kafka Tutorial](https://medium.com/@patelharshali136/apache-kafka-tutorial-kafka-for-beginners-a58140cef84f) - For beginners
