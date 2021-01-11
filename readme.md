@@ -114,7 +114,13 @@
 * [O que é esse tal de Apache Kafka?](https://medium.com/@gabrielqueiroz/o-que-é-esse-tal-de-apache-kafka-a8f447cac028) (Portuguese)
 
 ## Kubernetes
+* [How to setup a perfect Kubernetes Cluster using kOps on AWS](https://medium.com/faun/how-to-setup-a-perfect-kubernetes-cluster-using-kops-in-aws-b616bdfae013)
 * [Migração do EC2 para o Kubernetes](https://medium.com/doghero-brasil/migração-do-ec2-para-o-kubernetes-81d76eab5445) (Portuguese)
+* Reducing the Cost of Running a Personal k8s Cluster
+  * [Introduction](https://mattjmcnaughton.com/post/reducing-the-cost-of-running-a-personal-k8s-cluster-part-0/)
+  * [EC2 Instances](https://mattjmcnaughton.com/post/reducing-the-cost-of-running-a-personal-k8s-cluster-part-1/)
+  * [Volumes and Load Balancers](https://mattjmcnaughton.com/post/reducing-the-cost-of-running-a-personal-k8s-cluster-part-2/)
+  * [Conclusion](https://mattjmcnaughton.com/post/reducing-the-cost-of-running-a-personal-k8s-cluster-part-3/)
 
 ## Medium
 * [Netflix](https://medium.com/@NetflixTechBlog)
