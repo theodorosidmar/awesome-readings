@@ -14,6 +14,7 @@
   * [Kafka](#kafka)
   * [Kubernetes](#kubernetes)
   * [Medium](#medium)
+  * [Microservices](#microservices)
   * [NestJS](#nestjs)
   * [Nginx](#nginx)
   * [Node.js](#nodejs)
@@ -129,6 +130,9 @@
   * Favorites:
   * [Transações distribuídas em microserviços](https://medium.com/olxbr-tech/transações-distribu%C3%ADdas-em-microserviços-345243925da5)
 * [QuintoAndar](https://medium.com/quintoandar-tech-blog)
+
+## Microservices
+* [Microservices Design Guide](https://medium.com/platform-engineer/microservices-design-guide-eca0b799a7e8)
 
 ## NestJS
 * [Advanced NestJS: Dynamic Providers](https://dev.to/nestjs/advanced-nestjs-dynamic-providers-1ee)
