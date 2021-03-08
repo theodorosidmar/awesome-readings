@@ -5,6 +5,7 @@
   * [Architecture](#architecture)
   * [Data structures](#data-structures)
   * [Design patterns](#design-patterns)
+  * [Domain Driven Design](#domain-driven-design)
   * [Elixir](#elixir)
   * [ELK Stack](#elk-stack)
   * [Functional programming](#functional-programming)
@@ -87,6 +88,9 @@
 
 ### Twelve Factor
 * [Twelve Factor App](https://medium.com/trainingcenter/twelve-factor-app-f51665af95e7) - Boas práticas para microsserviços (Portuguese)
+
+## Domain Driven Design
+* [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html) - By Martin Fowler
 
 ## Elixir
 * [How Discord Scaled Elixir to 5,000,000 Concurrent Users](https://blog.discordapp.com/scaling-elixir-f9b8e1e7c29b)
