@@ -211,6 +211,7 @@
   * [Part I](https://itnext.io/microservices-with-spring-boot-and-spring-cloud-16d2c056ba12)
   * [Part II](https://itnext.io/microservices-with-spring-boot-and-spring-cloud-20f689b17fc7)
   * [Part III](https://itnext.io/microservices-with-spring-boot-and-spring-cloud-441e3dabc67d)
+* [Modularizing a Spring Boot Application](https://reflectoring.io/spring-boot-modules/)
 
 ## WebSocket
 * [Why you don't need Socket.IO](https://codeburst.io/why-you-don-t-need-socket-io-6848f1c871cd)
