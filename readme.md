@@ -207,6 +207,7 @@
 * [Your CORS and API Gateway survival guide](https://serverless.com/blog/cors-api-gateway-survival-guide/) - Serverless blog
 
 ## Spring
+* [Conditional Beans with Spring Boot](https://reflectoring.io/spring-boot-conditionals/)
 * Microservices with Spring Boot and Spring Cloud. From config server to OAuth2 server (without inMemory things)
   * [Part I](https://itnext.io/microservices-with-spring-boot-and-spring-cloud-16d2c056ba12)
   * [Part II](https://itnext.io/microservices-with-spring-boot-and-spring-cloud-20f689b17fc7)
