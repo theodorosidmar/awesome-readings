@@ -215,6 +215,7 @@
   * [Part III](https://itnext.io/microservices-with-spring-boot-and-spring-cloud-441e3dabc67d)
 * [Modularizing a Spring Boot Application](https://reflectoring.io/spring-boot-modules/)
 * [Pollution-Free Dependency Management with Gradle](https://reflectoring.io/gradle-pollution-free-dependencies/)
+* [Structuring and Testing Modules and Layers with Spring Boot](https://reflectoring.io/testing-verticals-and-layers-spring-boot/)
 
 ## WebSocket
 * [Why you don't need Socket.IO](https://codeburst.io/why-you-don-t-need-socket-io-6848f1c871cd)
