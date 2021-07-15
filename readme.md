@@ -209,6 +209,7 @@
 ## Spring
 * [Building a Multi-Module Spring Boot Application with Gradle](https://reflectoring.io/spring-boot-gradle-multi-module/)
 * [Conditional Beans with Spring Boot](https://reflectoring.io/spring-boot-conditionals/)
+* [Integration Tests with Spring Boot and @SpringBootTest](https://reflectoring.io/spring-boot-test/)
 * Microservices with Spring Boot and Spring Cloud. From config server to OAuth2 server (without inMemory things)
   * [Part I](https://itnext.io/microservices-with-spring-boot-and-spring-cloud-16d2c056ba12)
   * [Part II](https://itnext.io/microservices-with-spring-boot-and-spring-cloud-20f689b17fc7)
