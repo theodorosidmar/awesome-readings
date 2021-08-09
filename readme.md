@@ -5,6 +5,7 @@
   * [Architecture](#architecture)
   * [Data structures](#data-structures)
   * [Design patterns](#design-patterns)
+  * [Docker](#docker)
   * [Domain Driven Design](#domain-driven-design)
   * [Elixir](#elixir)
   * [ELK Stack](#elk-stack)
@@ -88,6 +89,9 @@
 
 ### Twelve Factor
 * [Twelve Factor App](https://medium.com/trainingcenter/twelve-factor-app-f51665af95e7) - Boas práticas para microsserviços (Portuguese)
+
+## Docker
+* [How to improve your Docker containers security (cheat sheet included)](https://blog.gitguardian.com/how-to-improve-your-docker-containers-security-cheat-sheet/)
 
 ## Domain Driven Design
 * [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html) - By Martin Fowler
