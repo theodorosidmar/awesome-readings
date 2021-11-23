@@ -13,6 +13,7 @@
   * [Golang](#go)
   * [GraphQL](#graphql)
   * [Heroku](#heroku)
+  * [Java](#java)
   * [Kafka](#kafka)
   * [Kotlin](#kotlin)
   * [Kubernetes](#kubernetes)
@@ -117,6 +118,9 @@
 
 ## Heroku
 * [Keeping my heroku app alive](https://medium.com/better-programming/keeping-my-heroku-app-alive-b19f3a8c3a82)
+
+## Java
+* [Monitoring Java Applications with Flight Recorder](https://www.baeldung.com/java-flight-recorder-monitoring)
 
 ## Kafka
 * [Apache Kafka Tutorial](https://medium.com/@patelharshali136/apache-kafka-tutorial-kafka-for-beginners-a58140cef84f) - For beginners
