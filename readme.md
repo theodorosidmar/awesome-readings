@@ -173,6 +173,7 @@
 
 ## Node.js
 * [Moving Node.js from PaaS to Kubernetes tutorial](https://blog.risingstack.com/moving-node-js-from-paas-to-kubernetes-tutorial/)
+* [Node.js multithreading: Worker threads and why they matter](https://blog.logrocket.com/node-js-multithreading-worker-threads-why-they-matter/)
 ### JavaScript
 * [Useful JavaScript array and object methods](https://codeburst.io/useful-javascript-array-and-object-methods-6c7971d93230)
 ### Security
