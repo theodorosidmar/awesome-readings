@@ -120,6 +120,10 @@
 * [Keeping my heroku app alive](https://medium.com/better-programming/keeping-my-heroku-app-alive-b19f3a8c3a82)
 
 ## Java
+* Garbage collector post series by Red Hat
+  * [Stages and levels of Java garbage collection](https://developers.redhat.com/articles/2021/08/20/stages-and-levels-java-garbage-collection) - Part 1
+  * [How the JVM uses and allocates memory](https://developers.redhat.com/articles/2021/09/09/how-jvm-uses-and-allocates-memory) - Part 2
+  * [How to choose the best Java garbage collector](https://developers.redhat.com/articles/2021/11/02/how-choose-best-java-garbage-collector) - Part 3
 * [Monitoring Java Applications with Flight Recorder](https://www.baeldung.com/java-flight-recorder-monitoring)
 
 ## Kafka
