@@ -143,6 +143,9 @@
   * [EC2 Instances](https://mattjmcnaughton.com/post/reducing-the-cost-of-running-a-personal-k8s-cluster-part-1/)
   * [Volumes and Load Balancers](https://mattjmcnaughton.com/post/reducing-the-cost-of-running-a-personal-k8s-cluster-part-2/)
   * [Conclusion](https://mattjmcnaughton.com/post/reducing-the-cost-of-running-a-personal-k8s-cluster-part-3/)
+* Understanding resource limits in Kubernetes
+  * [CPU](https://medium.com/@betz.mark/understanding-resource-limits-in-kubernetes-cpu-time-9eff74d3161b)
+  * [Memory](https://medium.com/@betz.mark/understanding-resource-limits-in-kubernetes-memory-6b41e9a955f9)
 
 ## Medium
 * [Netflix](https://medium.com/@NetflixTechBlog)
