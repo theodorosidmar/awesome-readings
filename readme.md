@@ -190,6 +190,7 @@
 ## PostgreSQL
 * [JSON tutorial](http://www.postgresqltutorial.com/postgresql-json/)
 * [Returning Hierarchical Data in a Single SQL Query](https://bender.io/2013/09/22/returning-hierarchical-data-in-a-single-sql-query/)
+* [What is SKIP LOCKED for in PostgreSQL?](https://www.enterprisedb.com/blog/what-skip-locked-postgresql-95)
 
 ## RPC - Remote procedure call
 ### gRPC
