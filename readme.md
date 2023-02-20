@@ -133,6 +133,7 @@
 
 ## Kotlin
 * [Arrow Try is dead. Long live Kotlin result](https://medium.com/@jcamilorada/arrow-try-is-dead-long-live-kotlin-result-5b086892a71e)
+* [Concurrency vs. Parallelism Using Kotlin](https://betterprogramming.pub/the-difference-between-concurrency-and-parallelism-explained-using-kotlin-83f4159581d)
 * [Flight Recorder: Examining Java and Kotlin Apps](https://dzone.com/articles/flight-recorder-examining-java-and-kotlin-apps)
 
 ## Kubernetes
