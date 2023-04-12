@@ -137,6 +137,12 @@
 * [Concurrency vs. Parallelism Using Kotlin](https://betterprogramming.pub/the-difference-between-concurrency-and-parallelism-explained-using-kotlin-83f4159581d)
 * [How to leverage functional programming in Kotlin to write better, cleaner code](https://doordash.engineering/2022/03/22/how-to-leverage-functional-programming-in-kotlin-to-write-better-cleaner-code/)
 * [Flight Recorder: Examining Java and Kotlin Apps](https://dzone.com/articles/flight-recorder-examining-java-and-kotlin-apps)
+* Programming with `Result<T>`
+  * [Motivation](https://medium.com/@gabrielshanahan/programming-with-result-motivation-dec875787a7)
+  * [Returning a Result](https://medium.com/the-kotlin-primer/programming-with-result-returning-a-result-33696cdce96f)
+  * [kotlin.Result](https://medium.com/the-kotlin-primer/programming-with-result-kotlin-result-836972cfb29e)
+  * [Combining and Composing Results](https://medium.com/the-kotlin-primer/programming-with-result-combining-and-composing-results-2a56ea3a890c)
+  * [Considerations](https://medium.com/the-kotlin-primer/programming-with-result-considerations-e8f3352029f9#8c50)
 
 ## Kubernetes
 * [How to setup a perfect Kubernetes Cluster using kOps on AWS](https://medium.com/faun/how-to-setup-a-perfect-kubernetes-cluster-using-kops-in-aws-b616bdfae013)
