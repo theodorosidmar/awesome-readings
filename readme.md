@@ -134,6 +134,9 @@
 ## Kotlin
 * [A taste of Functional Programming in Kotlin](https://medium.com/swlh/a-taste-of-functional-programming-in-kotlin-3b163b5c8101)
 * [Arrow Try is dead. Long live Kotlin result](https://medium.com/@jcamilorada/arrow-try-is-dead-long-live-kotlin-result-5b086892a71e)
+* Compositional Patterns in Kotlin
+  * [Part 1 - Delegation](https://avwie.github.io/compositional-patterns-in-kotlin-part-1-delegation)
+  * [Part 2 - Component Model](https://avwie.github.io/compositional-patterns-in-kotlin-part-2-component-model)
 * [Concurrency vs. Parallelism Using Kotlin](https://betterprogramming.pub/the-difference-between-concurrency-and-parallelism-explained-using-kotlin-83f4159581d)
 * [How to leverage functional programming in Kotlin to write better, cleaner code](https://doordash.engineering/2022/03/22/how-to-leverage-functional-programming-in-kotlin-to-write-better-cleaner-code/)
 * [Flight Recorder: Examining Java and Kotlin Apps](https://dzone.com/articles/flight-recorder-examining-java-and-kotlin-apps)
@@ -143,6 +146,7 @@
   * [kotlin.Result](https://medium.com/the-kotlin-primer/programming-with-result-kotlin-result-836972cfb29e)
   * [Combining and Composing Results](https://medium.com/the-kotlin-primer/programming-with-result-combining-and-composing-results-2a56ea3a890c)
   * [Considerations](https://medium.com/the-kotlin-primer/programming-with-result-considerations-e8f3352029f9#8c50)
+* [Understading Flow](https://kt.academy/article/cc-understanding-flow)
 
 ## Kubernetes
 * [How to setup a perfect Kubernetes Cluster using kOps on AWS](https://medium.com/faun/how-to-setup-a-perfect-kubernetes-cluster-using-kops-in-aws-b616bdfae013)
