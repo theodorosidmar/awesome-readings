@@ -263,4 +263,5 @@
 * [All Time Favorites](http://highscalability.com/all-time-favorites/) posts on [High Scalability](http://highscalability.com)
 * [Enterprise Application Logging Best Practices (A Support Engineer's Perspective)](https://betterprogramming.pub/application-logging-best-practices-a-support-engineers-perspective-b17d0ef1c5df)
 * [How Discord stores billions of messages](https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7)
+* [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
 * [Uber Engineering Blog](https://eng.uber.com/)
