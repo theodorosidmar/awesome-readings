@@ -267,3 +267,4 @@
 * [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
 * [Software Entropy Explained](https://www.toptal.com/software/software-entropy-explained)
 * [Uber Engineering Blog](https://eng.uber.com/)
+* [Whatever happened to Durability?](https://web.archive.org/web/20180422030240/https://drivescale.com/2017/03/whatever-happened-durability/)
