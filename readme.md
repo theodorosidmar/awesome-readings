@@ -261,6 +261,7 @@
 * [A career is a marathon. Not a sprint](https://leaderonomics.com/personal/a-career-is-a-marathon-not-a-sprint)
 * [A Heurística da Jóia do Tempo do Dr. Estranho](https://gabrielschade.github.io/2019/04/04/avengers-joia-tempo-heuristica.html) (Portuguese)
 * [All Time Favorites](http://highscalability.com/all-time-favorites/) posts on [High Scalability](http://highscalability.com)
+* [Considering Strategies For Idempotency Without Distributed Locking With Ben Darfler](https://www.bennadel.com/blog/3390-considering-strategies-for-idempotency-without-distributed-locking-with-ben-darfler.htm)
 * [Enterprise Application Logging Best Practices (A Support Engineer's Perspective)](https://betterprogramming.pub/application-logging-best-practices-a-support-engineers-perspective-b17d0ef1c5df)
 * [How Discord stores billions of messages](https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7)
 * [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
