@@ -267,5 +267,6 @@
 * [How Sharding Works](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6)
 * [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
 * [Software Entropy Explained](https://www.toptal.com/software/software-entropy-explained)
+* [Transactions and consistency 101](https://sergeiturukin.com/2017/06/14/transactions-consistency.html)
 * [Uber Engineering Blog](https://eng.uber.com/)
 * [Whatever happened to Durability?](https://web.archive.org/web/20180422030240/https://drivescale.com/2017/03/whatever-happened-durability/)
