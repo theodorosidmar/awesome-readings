@@ -125,6 +125,7 @@
   * [How the JVM uses and allocates memory](https://developers.redhat.com/articles/2021/09/09/how-jvm-uses-and-allocates-memory) - Part 2
   * [How to choose the best Java garbage collector](https://developers.redhat.com/articles/2021/11/02/how-choose-best-java-garbage-collector) - Part 3
 * [Graal vs. C2: Battle of the JITs](https://martijndwars.nl/2020/02/24/graal-vs-c2.html)
+* [Large pages and Java](https://kstefanj.github.io/2021/05/19/large-pages-and-java.html)
 * [Monitoring Java Applications with Flight Recorder](https://www.baeldung.com/java-flight-recorder-monitoring)
 * Parallelism, SIMD, and Vectorization in Java: Unblock the parallel processing potential
   * [Part 1](https://medium.com/@abhijit-a-kulkarni/parallelism-simd-and-vectorization-in-java-unblock-the-parallel-processing-potential-part-1-1f3e0d0a56b5)
