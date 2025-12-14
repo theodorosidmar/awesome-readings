@@ -140,6 +140,7 @@
 * [Concurrency vs. Parallelism Using Kotlin](https://betterprogramming.pub/the-difference-between-concurrency-and-parallelism-explained-using-kotlin-83f4159581d)
 * [How to leverage functional programming in Kotlin to write better, cleaner code](https://doordash.engineering/2022/03/22/how-to-leverage-functional-programming-in-kotlin-to-write-better-cleaner-code/)
 * [Flight Recorder: Examining Java and Kotlin Apps](https://dzone.com/articles/flight-recorder-examining-java-and-kotlin-apps)
+* [Graal vs C2 who runs Kotlin faster?](https://medium.com/javarevisited/graal-vs-c2-who-runs-kotlin-faster-82f03f1b11dd)
 * Programming with `Result<T>`
   * [Motivation](https://medium.com/@gabrielshanahan/programming-with-result-motivation-dec875787a7)
   * [Returning a Result](https://medium.com/the-kotlin-primer/programming-with-result-returning-a-result-33696cdce96f)
