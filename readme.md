@@ -125,6 +125,9 @@
   * [How the JVM uses and allocates memory](https://developers.redhat.com/articles/2021/09/09/how-jvm-uses-and-allocates-memory) - Part 2
   * [How to choose the best Java garbage collector](https://developers.redhat.com/articles/2021/11/02/how-choose-best-java-garbage-collector) - Part 3
 * [Monitoring Java Applications with Flight Recorder](https://www.baeldung.com/java-flight-recorder-monitoring)
+* Parallelism, SIMD, and Vectorization in Java: Unblock the parallel processing potential
+  * [Part 1](https://medium.com/@abhijit-a-kulkarni/parallelism-simd-and-vectorization-in-java-unblock-the-parallel-processing-potential-part-1-1f3e0d0a56b5)
+  * [Part 2](https://medium.com/@abhijit-a-kulkarni/parallelism-simd-and-vectorization-in-java-unblock-the-parallel-processing-potential-part-2-158f50b1eac5)
 
 ## Kafka
 * [Apache Kafka Tutorial](https://medium.com/@patelharshali136/apache-kafka-tutorial-kafka-for-beginners-a58140cef84f) - For beginners
